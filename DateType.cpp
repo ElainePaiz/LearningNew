@@ -11,7 +11,6 @@ int main() {
     double d = 4.0;
     string s = "HackerRank ";
 //above this are all given already
-
 // Declare second integer, double, and String variables.
 
     int i2;
